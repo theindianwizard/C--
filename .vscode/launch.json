@@ -11,7 +11,7 @@
       "stopAtEntry": false,
       "cwd": "d:/C++",
       "environment": [],
-      "program": "d:/C++/build/Release/outRelease",
+      "program": "d:/C++/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
